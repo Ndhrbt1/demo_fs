@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "138142661792",
+    "project_id": "fs-coba",
+    "storage_bucket": "fs-coba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138142661792:android:e16cc8c5ba17fc6b2e9dc5",
+        "android_client_info": {
+          "package_name": "com.example.demo_fs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZQSlRGlRXkTmsMaEpzHhH0u_zTQvek8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
